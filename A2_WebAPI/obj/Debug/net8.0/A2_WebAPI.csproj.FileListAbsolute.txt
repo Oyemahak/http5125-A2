@@ -1,0 +1,66 @@
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.deps.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.runtimeconfig.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.AssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.sourcelink.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.A2_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/scopedcss/bundle/A2_WebAPI.styles.css
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.Up2Date
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/refint/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.genruntimeconfig.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 4/C#_Assignement_2/A2_WebAPI/obj/Debug/net8.0/ref/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.deps.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.runtimeconfig.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/A2_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.AssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.sourcelink.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.A2_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.A2_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/scopedcss/bundle/A2_WebAPI.styles.css
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.csproj.Up2Date
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/refint/A2_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/A2_WebAPI.genruntimeconfig.cache
+/Users/mahak/Desktop/Web Developement/Learning/http5125-A2/A2_WebAPI/obj/Debug/net8.0/ref/A2_WebAPI.dll
