@@ -10,11 +10,11 @@ namespace CSharpAssignment2.Controllers
         /// <summary>
         /// Determines the winner of the silent auction.
         /// </summary>
-        /// <param name="bids">A list of bids, each containing a name and an amount.</param>
+        /// <param name="amount">A list of bids, each containing a name and an amount.</param>
         /// <returns>The name of the person who won the auction.</returns>
         /// <example>
         /// POST /api/J2/SilentAuction
-        /// Request Body: [{"name": "Ahmed", "bid": 300}, {"name": "Suzanne", "bid": 500}, {"name": "Ivona", "bid": 450}]
+        /// Request Body: [{"name": "Ahmed", "amount": 300}, {"name": "Suzanne", "amount": 500}, {"name": "Ivona", "amount": 450}]
         /// Response: "Suzanne"
         /// </example>
         [HttpPost("SilentAuction")]
